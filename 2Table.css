@@ -1,0 +1,22 @@
+.blue{ 
+    background-color:blue;
+}
+.red{
+    background-color:red;
+}
+.gul{
+    background-color:yellow;
+}
+.svart{
+    background-color:black;
+}
+.green{
+    background-color:lawngreen;
+}
+table, th, td{
+    border:2px soild black;
+    border-collapse:collapse;
+    height:90px;
+    width:30%;
+}
+    
